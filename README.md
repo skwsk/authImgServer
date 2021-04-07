@@ -10,13 +10,13 @@ Move to the root directory and run like below.
 
 Web server without authentication on default port 8000
 
-'''
+```
 /<path>/<of>/<file>/server.py
-'''
+```
 
 Web server with basic authentication on specified <port>
 
-'''
+```
 /<path>/<of>/<file>/server.py -a <username>:<password> -p <port>
-'''
+```
 
